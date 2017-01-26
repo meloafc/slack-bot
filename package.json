@@ -1,0 +1,23 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meloafc/slack-bot.git"
+  },
+  "author": "meloafc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meloafc/slack-bot/issues"
+  },
+  "homepage": "https://github.com/meloafc/slack-bot#readme",
+  "dependencies": {
+    "slackbots": "^1.0.2",
+    "sqlite3": "^3.1.8"
+  }
+}
